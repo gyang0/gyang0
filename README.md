@@ -22,5 +22,7 @@
 
 <br />
 
+Does anyone else find it sad that usernames gyang1 and gyang2 were taken, but no coders thought to choose gyang0?
+
 ##
 Thank you for reading the profile README of a random guy on the internet.
