@@ -9,16 +9,9 @@
 
 
 ### What I'm currently learning
-- WebGL
-- PowerShell
-- PHP
+- A bit of WebGL
+- General algorithms
 
-
-### On my todo list:
-- TypeScript
-- Python
-- Ruby
-- Node.js
 
 <br />
 
