@@ -1,4 +1,4 @@
-# Hello there.
+# Hi there.
 **I'm a high school student interested in fullstack development and competitive programming.**
 
 ### Favorite languages
