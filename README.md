@@ -1,5 +1,5 @@
 # Hi there.
-**I'm a high school student interested in fullstack development and competitive programming.**
+**I'm a high school student interested in algorithms and quantum computing.**
 
 ### Favorite languages
 - C++
